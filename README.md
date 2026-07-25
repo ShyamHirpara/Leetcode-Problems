@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -69,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
