@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
