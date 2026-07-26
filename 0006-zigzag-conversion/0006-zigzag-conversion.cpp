@@ -2,7 +2,7 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         string result="";
-        if(numRows == 1){
+        if(numRows == 1 || numRows >= s.size()){
             return s;
         }
         int increment = 2*(numRows-1);
