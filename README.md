@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0134-gas-station](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ShyamHirpara/Leetcode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
